@@ -1,5 +1,5 @@
 class AddColumns < ActiveRecord::Migration
-  def up
-
+  def change
+    
   end
 end
